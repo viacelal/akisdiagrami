@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-11-10T09:09:00.919Z" agent="5.0 (Windows)" etag="qaokjc--JBBkBa2Ny45h" version="13.9.3" type="github">
+<mxfile host="app.diagrams.net" modified="2020-11-10T10:21:05.580Z" agent="5.0 (Windows)" etag="Y2HUm1y-vmV3RfX-2NHq" version="13.9.3" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1038" dy="519" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -93,7 +93,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="xosmYYhnfr8041MUVnVW-31" value="Siparişin Fiyatları &lt;br&gt;Belirli mi?" style="rhombus;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="595" y="210" width="140" height="80" as="geometry" />
+          <mxGeometry x="595" y="190" width="140" height="80" as="geometry" />
         </mxCell>
         <mxCell id="xosmYYhnfr8041MUVnVW-32" value="No" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="xosmYYhnfr8041MUVnVW-31" target="xosmYYhnfr8041MUVnVW-33" edge="1">
           <mxGeometry y="10" relative="1" as="geometry">
@@ -103,7 +103,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="xosmYYhnfr8041MUVnVW-33" value="Fiyatları Belirle&lt;br&gt;(Müdür)" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="400" y="290" width="120" height="40" as="geometry" />
+          <mxGeometry x="400" y="325" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="xosmYYhnfr8041MUVnVW-35" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="xosmYYhnfr8041MUVnVW-33" target="nXdkxtceE0CgyxJkmKg6-9" edge="1">
           <mxGeometry y="10" relative="1" as="geometry">
@@ -186,12 +186,29 @@
         <mxCell id="H5eFpl-MFyUzSZF5Hi-M-0" value="Sipariş ödemesi &lt;br&gt;kontrol edilecek ?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="630" y="640" width="140" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="H5eFpl-MFyUzSZF5Hi-M-1" value="Yes" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="nXdkxtceE0CgyxJkmKg6-11" target="H5eFpl-MFyUzSZF5Hi-M-0">
+        <mxCell id="H5eFpl-MFyUzSZF5Hi-M-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="nXdkxtceE0CgyxJkmKg6-11" target="H5eFpl-MFyUzSZF5Hi-M-0">
           <mxGeometry y="10" relative="1" as="geometry">
             <mxPoint y="1" as="offset" />
             <mxPoint x="700" y="480" as="sourcePoint" />
             <mxPoint x="700" y="540" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="H5eFpl-MFyUzSZF5Hi-M-2" value="No" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="H5eFpl-MFyUzSZF5Hi-M-0" target="nXdkxtceE0CgyxJkmKg6-11">
+          <mxGeometry y="10" relative="1" as="geometry">
+            <mxPoint y="1" as="offset" />
+            <mxPoint x="700" y="580" as="sourcePoint" />
+            <mxPoint x="560" y="550" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="H5eFpl-MFyUzSZF5Hi-M-4" value="Yes" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="H5eFpl-MFyUzSZF5Hi-M-0" target="H5eFpl-MFyUzSZF5Hi-M-5">
+          <mxGeometry y="10" relative="1" as="geometry">
+            <mxPoint y="1" as="offset" />
+            <mxPoint x="630" y="680" as="sourcePoint" />
+            <mxPoint x="700" y="780" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="H5eFpl-MFyUzSZF5Hi-M-5" value="Sipairiş satın &lt;br&gt;almaya düşer" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="640" y="800" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
