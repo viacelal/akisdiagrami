@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-11-10T10:34:26.285Z" agent="5.0 (Windows)" etag="pVXMBYMnTqfAv6J7Zbkc" version="13.9.3" type="github">
+<mxfile host="app.diagrams.net" modified="2020-11-10T10:34:37.602Z" agent="5.0 (Windows)" etag="uf71XZbI38gS3nVugd_2" version="13.9.3" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1221" dy="611" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -96,7 +96,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="xosmYYhnfr8041MUVnVW-31" value="Siparişin Fiyatları &lt;br&gt;Belirli mi?" style="rhombus;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="595" y="260" width="140" height="80" as="geometry" />
+          <mxGeometry x="595" y="230" width="140" height="80" as="geometry" />
         </mxCell>
         <mxCell id="xosmYYhnfr8041MUVnVW-32" value="No" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="xosmYYhnfr8041MUVnVW-31" target="xosmYYhnfr8041MUVnVW-33" edge="1">
           <mxGeometry y="10" relative="1" as="geometry">
