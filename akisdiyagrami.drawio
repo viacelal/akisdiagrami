@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-11-10T10:28:10.647Z" agent="5.0 (Windows)" etag="mFuDqNtG6AId5a0-oJEh" version="13.9.3" type="github">
+<mxfile host="app.diagrams.net" modified="2020-11-10T10:28:49.556Z" agent="5.0 (Windows)" etag="wq4LBcB1ohK3MI5JjaOL" version="13.9.3" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1038" dy="519" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -207,8 +207,8 @@
             <mxPoint x="700" y="890" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="H5eFpl-MFyUzSZF5Hi-M-5" value="Sipairiş satın &lt;br&gt;almaya düşer" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="640" y="910" width="120" height="40" as="geometry" />
+        <mxCell id="H5eFpl-MFyUzSZF5Hi-M-5" value="Sipairiş satın &lt;br&gt;almaya düşer&lt;br&gt;Sipariş Status 5" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="640" y="910" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="H5eFpl-MFyUzSZF5Hi-M-7" value="- Sipariş Onaylandı&lt;br&gt;Sipariş status 3" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="640" y="539.5" width="120" height="50.5" as="geometry" />
